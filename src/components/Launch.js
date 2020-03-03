@@ -44,7 +44,6 @@ const Launch = props => {
             },
             details
           } = data.launch;
-          console.log("DEATILS", details);
           return (
             <div>
               <h1 className="display-4 my-3">
